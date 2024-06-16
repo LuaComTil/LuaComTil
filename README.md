@@ -23,7 +23,7 @@
 <div align="center">
   
   ![Top Langs](https://github-readme-stats-git-main-luacomtils-projects.vercel.app/api/top-langs/?username=LuaComTil&count_private=true&layout=compact&exclude_repo=github-readme-stats,github-readme-streak-stats&theme=radical)
-  ![Luã's GitHub stats](https://github-readme-stats-git-main-luacomtils-projects.vercel.app/api?username=LuaComTil&hide=contribs,prs&show_icons=true&theme=radical)
+  ![Luã's GitHub stats](https://github-readme-stats-git-main-luacomtils-projects.vercel.app/api?username=LuaComTil&hide=prs&show_icons=true&theme=radical)
   [![GitHub Streak](https://github-readme-streak-stats-one-eta.vercel.app?user=LuaComTil&theme=radical&border_radius=4&date_format=j%2Fn%5B%2FY%5D&card_width=770&card_height=160)](https://git.io/streak-stats)
 
 </div>
