@@ -15,5 +15,10 @@
 
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-eta.vercel.app?user=LuaComTil&theme=black-ice&border_radius=8&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+
+  
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-eta.vercel.app?user=LuaComTil&count_private=true&theme=black-ice&border_radius=8&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+
+![Top Langs](https://github-readme-stats-git-main-luacomtils-projects.vercel.app/api/top-langs/?username=LuaComTil&layout=compact&exclude_repo=github-readme-stats,github-readme-streak-stats&theme=radical)
+![Luã's GitHub stats](https://github-readme-stats-git-main-luacomtils-projects.vercel.app/api?username=LuaComTil&hide=contribs,prs&show_icons=true&theme=radical)
 </div>
