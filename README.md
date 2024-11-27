@@ -1,6 +1,11 @@
-##
+
+
 <div align="center">
-  Considere acessar --> 
+  <div align="center">
+
+  ### Considere acessar:
+  
+  </div>
   <a href="https://luacomtil.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
@@ -11,6 +16,6 @@
 
 <div align="center">
 
-## Trabalhando nos projetos abaixo
+#### Trabalhando  nos projetos abaixo
 
 </div>
